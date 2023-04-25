@@ -16,10 +16,10 @@
               <img src="images/profile.png" alt="profile">
             </picture>
             <div class="content">
-              <p class="detail">Coding Profile</p>
-                <h1>NAME</h1>
+              <p class="detail">Alex's Coding profile</p>
+                <h1>Alex Kumar</h1>
               <p>
-                Highschool student who has been coding for 3 years.
+                I am a high school student at del norte who has been coding for almost a year now!
               </p>
               <a href="https://pages.github.com/" class="button"></a>
             </div>
