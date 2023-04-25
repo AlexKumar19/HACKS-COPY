@@ -51,7 +51,7 @@ Consistency: Bootstrap is designed to provide a consistent look and feel across 
 <h2>1. What are examples of selection, iteration, and sequencing in the snake game?</h2>
 <p>The game has to continue to iterate over the functions and the key inputs and also it has seleciton by when you click the key it chooses a certain function to run depending on which key is presxssed. Sequencing is used in the snake game when multiple inputs are put and the game has to follow the instructions in the certain order</p>
 <h2>2. How does ":root" contribute to the customization of the game?</h2>
-<!--<p>ANSWER</p>-->
+<p>The root selecter in CSS refers to the root element of the document. In the snake game it is the div element that has the games canvas .</p>
 <h2>3. Write 2-3 sentences about how the use of HTML, JavaScript, and CSS creates the final product.</h2>
 <p>The html creates the front end working with css to make the boxes and everything else look good. The javascript works in the back running all the functions and mechanics behind the game such ads the eating the apple mechanic and the motion mechanics</p>
 
