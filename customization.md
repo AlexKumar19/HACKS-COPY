@@ -21,7 +21,7 @@
               <p>
                 I am a high school student at del norte who has been coding for almost a year now!
               </p>
-              <a href="https://pages.github.com/" class="button"></a>
+              <a href="https://github.com/AlexKumar19/fastpages-APCSP" class="button"></a>
             </div>
           </article>
         </main>
