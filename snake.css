@@ -22,11 +22,11 @@ canvas {
   position: absolute;
 }
 :root {
-  --apple: blue;
-  --snake: purple;
+  --apple: rgb(26, 202, 161);
+  --snake: rgb(216, 138, 12);
 }
 #p1 {
-  color:purple;
+  color:rgb(24, 111, 165);
   position:relative;
   padding-left: 50px;
   padding-top: 25px;
